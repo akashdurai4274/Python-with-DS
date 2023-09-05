@@ -1,0 +1,27 @@
+#LIST AND ITS OPERATIONS
+---------------------------- 
+1.List is MUTABLE, ORDERED, ALLOW DUPLICATES
+2.List is DYNAMIC it allows of sequence of Different Data types
+3.we Can use Nested list in the List 
+4.The List methods has Six types
+ 1.Append()
+ 2.Insert()
+ 3.Delete()
+ 4.Sort()
+ 5.reverse()
+5.List is Comma Seprated Sequence Of Elements enclose within the Square Brackets
+6.We Can creating the list using the list constructor Eg:(list1 = list())
+7.List are Index basing element specically they are zero index based Elements
+8.using -ve indexing is also possible
+================================================================================================================
+
+#TUPLES AND ITS OPERATIONS
+1.Tuple is "IMMUTABLE" anad it is Comma Seprated Sequence Of Elements enclose within the Paranthesis()
+2.If we give the comma seperated elemnts without paranthesis defaultly it takes as a tuple
+3.We Can creating the Tuple using the tuple constructor Eg:(tup1 = tuple())
+4.there is a som confusion in this if we give the tuple as (Eg:tup1 = (4)) it is considered
+as a integer because the paranthsis in python is considered as a grouping operator() so use like(Eg:tup1 = (2,))
+5.Tuple has no operations
+6.using -ve indexing is also possible
+7.Tuple is FASTER than the list and it prevents from accidental modification of data
+=================================================================================================================
